@@ -1,4 +1,6 @@
-# Welcome to GitHub Desktop!
+# This is my Question.
+
+That i solved for my Basics understanding about java
 
 This is your README. READMEs are where you can communicate what your project is and how to use it.
 
